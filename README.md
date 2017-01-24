@@ -15,7 +15,7 @@
 3) Scaricare la presentazione in una directory a scelta
 
 ## Avvio:
-Per avviare la presentazione, aprire il Terminale nella stessa directory della presentazione
+Per avviare la presentazione, aprire il Terminale nella stessa directory della presentazione <br>
 É possibile visualizzare la presentazione in due modi.
 #### Tramite Jupyter (modalità interattiva):
 1) Digitare il comando seguente e premere Invio
